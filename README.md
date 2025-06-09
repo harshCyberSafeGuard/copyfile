@@ -1,13 +1,10 @@
 # copyfile
 
-# Installation
-
-copyfile
-
 A simple bash script utility to copy contents of a file (whole file, last N lines, or last N bytes) to your clipboard using `xclip`.  
 Perfect for developers, sysadmins, or CTF players working on Kali Linux or other Linux distros.
 
-## Installation
+# Installation
+
 
 1. Clone the repository and assign the permission:
 
